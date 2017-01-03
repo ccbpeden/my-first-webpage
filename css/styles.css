@@ -1,5 +1,5 @@
 h1 {
-  color:green;
+  color:red;
 }
 
 h2 {
@@ -9,9 +9,10 @@ h2 {
 
 p {
   font-family: sans-serif;
+  font-weight: lighter;
 }
 
 ul {
   font-size: 20px;
-  line-heigh: 30px;
+  line-height: 30px;
 }
