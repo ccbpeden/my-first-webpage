@@ -2,7 +2,7 @@
 
 #### _practice HTML, github, markdown for week 1 Epicodus, Jan 3, 2017_
 
-#### By _**Azure Rose Legacy, Benjamin Seaver, Charles Peden**_
+#### By _**ARL, BTS, CCBP**_
 
 ## Description
 
