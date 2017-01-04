@@ -3,6 +3,12 @@ p.intro {
   font-style: italic;
 }
 
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: aqua;
+}
+
 p.author {
   width: 75%;
   font-style: italic;
@@ -21,4 +27,9 @@ p.author {
 .sorrow {
   font-style: oblique;
   color: aqua;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
