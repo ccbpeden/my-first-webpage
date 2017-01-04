@@ -33,3 +33,8 @@ p.author {
   width: 300px;
   float: left;
 }
+
+img {
+  float: right;
+  height: 200px;
+}
