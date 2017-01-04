@@ -1,19 +1,22 @@
-p.intro {
+/*p.intro {
   width: 50%;
   font-style: italic;
-}
+}*/
 
 .sidebar {
-  width: 30%;
+  width: 15%;
   float: right;
+  border: 2px dotted darkblue;
+  padding: 3px;
+  margin: 10px;
   background-color: aqua;
 }
 
-p.author {
+/*p.author {
   width: 75%;
   font-style: italic;
   font-weight: bold;
-}
+}*/
 
 .important {
   font-size: 50px;
@@ -32,6 +35,10 @@ p.author {
 .column {
   width: 300px;
   float: left;
+  border: 2px dashed red;
+  padding: 3px;
+  margin: 5px;
+  background-color: orange;
 }
 
 img {
