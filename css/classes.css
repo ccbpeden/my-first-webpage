@@ -13,3 +13,12 @@ p.author {
   font-size: 50px;
   color:red;
 }
+
+.dreary {
+  font-family: "Comic Sans MS";
+}
+
+.sorrow {
+  font-style: oblique;
+  color: aqua;
+}
