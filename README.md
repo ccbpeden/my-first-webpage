@@ -11,7 +11,7 @@ _Simple webpages a la mid 90s_
 ## Setup/Installation Requirements
 
 * _Clone files from GitHub Repository_
-* _open html files_
+* _open html files in your favorite browser_
 
 
 ## Known Bugs
